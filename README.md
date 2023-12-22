@@ -90,7 +90,7 @@
   <li><code>output_path:</code> Path to the output directory.</li>
   <li><code>clip_length:</code> Duration of each sampled video clip.</li>
   <li><code>fps:</code> Frames per second for video processing.</li>
-  <li><code>sample_percentage:</code> Percentage of clips to be sampled (optional for Method 2).</li>
+  <li><code>sample_percentage:</code> Percentage of clips to be sampled.</li>
 </ul>
 
 <p>For a successful request, ensure all critical parameters are included. Refer to the specific method details for additional considerations.</p>
