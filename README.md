@@ -17,7 +17,6 @@
       <li><a href="#api-endpoint">API Endpoint</a></li>
       <li><a href="#input-parameters">Input Parameters</a></li>
     </ul>
-  <li><a href="#license">License</a></li>
 </ul>
 
 <h2>Overview</h2>
