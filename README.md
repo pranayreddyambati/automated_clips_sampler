@@ -96,6 +96,3 @@
 
 <p>For a successful request, ensure all critical parameters are included. Refer to the specific method details for additional considerations.</p>
 
-<h2>License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
